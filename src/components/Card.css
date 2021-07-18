@@ -1,0 +1,69 @@
+.card {
+	font-size: var(--font-size);
+	width: 100%;
+	flex: 1;
+	display: flex;
+	justify-content: space-evenly;
+	flex-flow: column;
+	padding: 3em;
+	color: var(--transparent-white);
+	line-height: 1.5;
+	gap: 2em;
+}
+
+.card:first-child {
+	border-radius: 8px 8px 0 0;
+}
+
+.card:last-child {
+	border-radius: 0 0 8px 8px;
+}
+
+.card--is-orange {
+	background: var(--bright-orange);
+}
+
+.card--is-orange .button {
+	color: var(--bright-orange);
+}
+
+.card--is-orange .button:hover {
+	background: var(--bright-orange);
+}
+
+.card--is-cyan {
+	background: var(--dark-cyan);
+}
+
+.card--is-cyan .button {
+	color: var(--dark-cyan);
+}
+
+.card--is-dark-cyan {
+	background: var(--very-dark-cyan);
+}
+
+.card--is-dark-cyan .button {
+	color: var(--very-dark-cyan);
+}
+
+.card .icon {
+	width: 4em;
+}
+
+.title {
+	font-family: var(--title-family);
+	font-size: 2.5em;
+	text-transform: uppercase;
+}
+
+.button {
+	outline: none;
+	border: none;
+	border-radius: 40em;
+	width: fit-content;
+	padding: 1em 2.5em;
+	text-transform: capitalize;
+	background: #FFF;
+	font-weight: 500;
+}
