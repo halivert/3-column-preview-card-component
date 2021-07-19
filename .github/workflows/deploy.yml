@@ -9,7 +9,7 @@ jobs:
   github-pages:
     runs-on: ubuntu-latest
     env:
-      PUBLIC_PATH: https://halivert.dev/3-column-preview-card-component
+      PUBLIC_URL: https://halivert.dev/3-column-preview-card-component
     steps:
       - name: Checkout
         uses: actions/checkout@v2
