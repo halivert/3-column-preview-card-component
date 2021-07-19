@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "https://halivert.dev/3-column-preview-card-component/static/css/main.9b2eae52.chunk.css",
-    "main.js": "https://halivert.dev/3-column-preview-card-component/static/js/main.27313ad1.chunk.js",
-    "main.js.map": "https://halivert.dev/3-column-preview-card-component/static/js/main.27313ad1.chunk.js.map",
+    "main.css": "https://halivert.dev/3-column-preview-card-component/static/css/main.10fb34f7.chunk.css",
+    "main.js": "https://halivert.dev/3-column-preview-card-component/static/js/main.4ec87d5e.chunk.js",
+    "main.js.map": "https://halivert.dev/3-column-preview-card-component/static/js/main.4ec87d5e.chunk.js.map",
     "runtime-main.js": "https://halivert.dev/3-column-preview-card-component/static/js/runtime-main.9be8441b.js",
     "runtime-main.js.map": "https://halivert.dev/3-column-preview-card-component/static/js/runtime-main.9be8441b.js.map",
     "static/js/2.6a052a98.chunk.js": "https://halivert.dev/3-column-preview-card-component/static/js/2.6a052a98.chunk.js",
@@ -10,7 +10,7 @@
     "static/js/3.34305f11.chunk.js": "https://halivert.dev/3-column-preview-card-component/static/js/3.34305f11.chunk.js",
     "static/js/3.34305f11.chunk.js.map": "https://halivert.dev/3-column-preview-card-component/static/js/3.34305f11.chunk.js.map",
     "index.html": "https://halivert.dev/3-column-preview-card-component/index.html",
-    "static/css/main.9b2eae52.chunk.css.map": "https://halivert.dev/3-column-preview-card-component/static/css/main.9b2eae52.chunk.css.map",
+    "static/css/main.10fb34f7.chunk.css.map": "https://halivert.dev/3-column-preview-card-component/static/css/main.10fb34f7.chunk.css.map",
     "static/js/2.6a052a98.chunk.js.LICENSE.txt": "https://halivert.dev/3-column-preview-card-component/static/js/2.6a052a98.chunk.js.LICENSE.txt",
     "static/media/icon-luxury.7d6e1aef.svg": "https://halivert.dev/3-column-preview-card-component/static/media/icon-luxury.7d6e1aef.svg",
     "static/media/icon-sedans.e7945028.svg": "https://halivert.dev/3-column-preview-card-component/static/media/icon-sedans.e7945028.svg",
@@ -19,7 +19,7 @@
   "entrypoints": [
     "static/js/runtime-main.9be8441b.js",
     "static/js/2.6a052a98.chunk.js",
-    "static/css/main.9b2eae52.chunk.css",
-    "static/js/main.27313ad1.chunk.js"
+    "static/css/main.10fb34f7.chunk.css",
+    "static/js/main.4ec87d5e.chunk.js"
   ]
 }
