@@ -24,13 +24,14 @@ main {
 	display: flex;
 	flex-flow: column;
 	justify-content: center;
-	align-items: center;
+	align-items: stretch;
 	padding: 5em 1.7em;
 	align-self: center;
 }
 
 @media (min-width: 900px) {
 	main {
+		padding: 7em 1.7em;
 		flex-flow: row;
 		max-width: 66%;
 	}
