@@ -12,14 +12,14 @@ class Card extends React.Component {
 
 	render() {
 		return (
-			<div className={`card card--is-${this.color}`}>
+			<section className={`card card--is-${this.color}`}>
 				<img className="icon" src={this.icon} alt={`Icon for ${this.title}`} />
-				<strong className="title">{this.title}</strong>
+				<h1 className="title">{this.title}</h1>
 
 				<p>{this.props.children}</p>
 
 				<a href="#top" className="learn-more">Learn more</a>
-			</div>
+			</section>
 		);
 	}
 }
