@@ -18,7 +18,7 @@ class Card extends React.Component {
 
 				<p>{this.props.children}</p>
 
-				<button className="button">Learn more</button>
+				<a href="#top" className="learn-more">Learn more</a>
 			</div>
 		);
 	}

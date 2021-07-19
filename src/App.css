@@ -26,23 +26,31 @@ main {
 	justify-content: center;
 	align-items: center;
 	padding: 5em 1.7em;
+	align-self: center;
+}
+
+@media (min-width: 900px) {
+	main {
+		flex-flow: row;
+		max-width: 66%;
+	}
 }
 
 footer {
+	opacity: 0.6;
 	text-align: center;
 	padding: 0.25em;
-	border-top: 1px solid var(--very-dark-cyan);
 }
 
 a {
 	text-decoration: none;
-	color: var(--very-dark-cyan);
+	color: var(--primary-color, var(--very-dark-cyan));
 }
 
 a:hover,
 a:focus,
 a:focus-visible {
-	color: var(--dark-cyan);
+	color: var(--primary-color, var(--dark-cyan));
 }
 
 a:focus,
